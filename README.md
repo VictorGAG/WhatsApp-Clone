@@ -36,14 +36,14 @@
 <h2 align="center">Galeria de imagens</h2>
 
 <p align="center">Login com google</p>
-<img align="center" src="./src/screenshots/Screenshot_3.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_3.png"/></p>
 <p align="center">Tela inicial</p>
-<img align="center" src="./src/screenshots/Screenshot_4.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_4.png"/></p>
 <p align="center">Nova conversa</p>
-<img align="center" src="./src/screenshots/Screenshot_5.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_5.png"/></p>
 <p align="center">Digitando nova conversa</p>
-<img align="center" src="./src/screenshots/Screenshot_6.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_6.png"/></p>
 <p align="center">Digitando emojis</p>
-<img align="center" src="./src/screenshots/Screenshot_7.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_7.png"/></p>
 <p align="center">Chat</p>
-<img align="center" src="./src/screenshots/Screenshot_8.png"/>
+<p align="center"><img src="./src/screenshots/Screenshot_8.png"/></p>
